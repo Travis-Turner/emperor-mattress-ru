@@ -1,0 +1,13 @@
+.header-title {
+    text-align: center;
+    color: #ffffff;
+    font-size: 64px;
+    font-family: Pacifico
+}
+@font-face {
+    font-family: 'Pacifico';
+    src: local('Pacifico'), url(../../fonts/pacifico-regular.woff) format('woff');
+}
+
+
+
