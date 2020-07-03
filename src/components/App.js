@@ -9,15 +9,10 @@ function App() {
     <div className="App">
       <Header />
       <Bed />
+      <InfoForm />
     </div>
   );
 }
 
 export default App;
 
-/*
-
-
-      <InfoForm />
-
-      */
