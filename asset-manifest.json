@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/emperor-mattress-ru/static/css/main.788298e6.chunk.css",
+    "main.js": "/emperor-mattress-ru/static/js/main.2eeb6ca9.chunk.js",
+    "main.js.map": "/emperor-mattress-ru/static/js/main.2eeb6ca9.chunk.js.map",
+    "runtime-main.js": "/emperor-mattress-ru/static/js/runtime-main.3be614bf.js",
+    "runtime-main.js.map": "/emperor-mattress-ru/static/js/runtime-main.3be614bf.js.map",
+    "static/js/2.39cf9988.chunk.js": "/emperor-mattress-ru/static/js/2.39cf9988.chunk.js",
+    "static/js/2.39cf9988.chunk.js.map": "/emperor-mattress-ru/static/js/2.39cf9988.chunk.js.map",
+    "index.html": "/emperor-mattress-ru/index.html",
+    "precache-manifest.f9bde41ae2b1824e9c6a0453a4136c22.js": "/emperor-mattress-ru/precache-manifest.f9bde41ae2b1824e9c6a0453a4136c22.js",
+    "service-worker.js": "/emperor-mattress-ru/service-worker.js",
+    "static/css/main.788298e6.chunk.css.map": "/emperor-mattress-ru/static/css/main.788298e6.chunk.css.map",
+    "static/js/2.39cf9988.chunk.js.LICENSE.txt": "/emperor-mattress-ru/static/js/2.39cf9988.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/emperor-mattress-ru/static/media/pacifico-regular.4f176ca9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3be614bf.js",
+    "static/js/2.39cf9988.chunk.js",
+    "static/css/main.788298e6.chunk.css",
+    "static/js/main.2eeb6ca9.chunk.js"
+  ]
+}
