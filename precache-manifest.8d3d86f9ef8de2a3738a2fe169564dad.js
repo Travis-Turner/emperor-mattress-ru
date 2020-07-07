@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "11a1eb2a7f4618fe7e375e877cc8e315",
+    "revision": "df9d3bed2b5b874b9d054e6623f3fec7",
     "url": "/emperor-mattress-ru/index.html"
   },
   {
-    "revision": "0d005b92c309167846c2",
-    "url": "/emperor-mattress-ru/static/css/main.6133ccce.chunk.css"
+    "revision": "77c1bd6527a3b57261f8",
+    "url": "/emperor-mattress-ru/static/css/main.4c17cebc.chunk.css"
   },
   {
     "revision": "78e88ee31c5cb2b713e5",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/emperor-mattress-ru/static/js/2.39cf9988.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0d005b92c309167846c2",
+    "revision": "77c1bd6527a3b57261f8",
     "url": "/emperor-mattress-ru/static/js/main.2eeb6ca9.chunk.js"
   },
   {
