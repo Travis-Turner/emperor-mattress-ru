@@ -39,7 +39,7 @@
 
 
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
-    font-size: 18px;
+    font-size: 14px;
   }
   ::-moz-placeholder { /* Firefox 19+ */
     font-size: 18px;
