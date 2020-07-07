@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/emperor-mattress-ru/precache-manifest.6d6c46d6b4989e51dc4d19d00bd4a90b.js"
+  "/emperor-mattress-ru/precache-manifest.a1e996452bc69024ad5e13672956df3b.js"
 );
 
 self.addEventListener('message', (event) => {
